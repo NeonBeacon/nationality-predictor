@@ -1,3 +1,7 @@
+Task criteria -
+![Task criteria](https://github.com/NeonBeacon/nationality-predictor/assets/129503880/84019dec-1c63-432f-9c6e-dc6e2cfc191b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
